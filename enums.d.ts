@@ -65,9 +65,9 @@
 	  NUM7 = 0x8,
 	  NUM8 = 0x1c,
 	  NUM9 = 0x5a,
-	  * = 0x42,
+	  star= 0x42,
 	  NUM0 = 0x52,
-	  # = 0x4A,
+	  grid= 0x4A,
 	    
 	    
 	    
